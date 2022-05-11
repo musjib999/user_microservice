@@ -1,2 +1,1 @@
-# lexclass
-Lex Hub Training Class
+# User Microservice
